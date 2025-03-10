@@ -1,5 +1,8 @@
 # api_dash_aplica_java
 
+![image](https://github.com/user-attachments/assets/c94dc926-d328-4c61-98df-2bbb8dacb4c4)
+
+
 
 
 comprehensive dashboard API interface for a Java application with SQL Server integration. This solution includes:
